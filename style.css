@@ -1,0 +1,114 @@
+body{
+    background-color: #f3f3f3;
+}
+header{
+    background-color: #fff;
+    width: 100%;
+    height: 100px;
+    font-family: arial;
+    padding: 1px 0;
+}
+.logo-secton{
+    width: 100%;
+    height: 80px;
+    line-height:1px;
+    padding: 10px 0;
+}
+.logo img{
+    height: 70%;
+    float: left;
+    /*margin-right: 10px;*/
+}
+.top-section title{
+    width: 90%;
+}
+.title h3{
+    color: green;
+}
+header nav ul {
+    margin: 0 auto;
+    display: block;
+    width: fit-content;
+}
+header nav ul li{
+    display: inline-block;
+    float: left;
+    list-style: none;
+}
+header nav ul li a{
+    font-size: 16px;
+    color: #111;
+    list-style: none;
+    margin: 0 20px;
+    float: left;
+}
+header .gafventures{
+    display: none;
+}
+.banner{
+    width: 100%;
+    height: 80vh;
+    background-image: url('images/members/img(13).jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    float: left;
+    display: table;
+}
+.banner-text{
+    display: table-cell;
+    vertical-align: middle;
+    line-height: 1px;
+}
+section h2{
+    /*text-align: center; */
+    color: #fff;
+    font-weight: 900px;
+    font-size: 60px;
+    text-shadow: 4px 3px 10px #111;
+}
+section h4{
+    text-align: center; 
+    color: #fff;
+    font-weight: 900px;
+    font-size: 30px;
+    text-shadow: 4px 3px 20px #111;
+    font-style: italic;
+    line-height: 40px;
+    padding-right: 40px;
+}
+
+footer{
+    background-color:#111;
+    color: #fff;
+    float: left;
+    width: 100%;
+    height: 80px;
+    font-size: 12px;
+}
+.foot1{
+    float: left;
+    height: 100%;
+    width: 50%;
+
+}
+
+/*members page styles*/
+
+.members-title{
+    width: 100%;
+    height: 50px;
+    text-align: center;
+}
+.members-images{
+    width: 100%;
+    margin;
+    float: left;
+
+}
+.members-images img{
+    width: 100%;
+    float: left;
+    height: 1000px;
+    margin: 20px 20px;
+}
