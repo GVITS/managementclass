@@ -56,6 +56,7 @@ header{
 	}
 	.container .container-items{
 		width: 100%;
+		line-height:200px;
 	
 	}
 	.container #portfolio-items{
