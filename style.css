@@ -121,3 +121,6 @@ footer{
     float: left;
     height: 100%;
 }
+.content p{
+    font-size: 30px;
+}
